@@ -1,0 +1,4 @@
+
+#!/bin/bash
+# This dispalys the user name
+echo 'kbredemeier'

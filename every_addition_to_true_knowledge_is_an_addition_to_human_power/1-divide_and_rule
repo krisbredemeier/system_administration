@@ -1,4 +1,3 @@
 #!/bin/bash
-POWER=42784 DIVIDE=32
 echo $(($POWER/$DIVIDE))
 

@@ -1,3 +1,4 @@
 #!/bin/bash
 VAR=TRUEKNOWLEDGE
 echo $((128+($VAR)))
+

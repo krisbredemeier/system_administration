@@ -1,4 +1,4 @@
 #!/bin/bash
+echo $( printf "%x" $DECIMAL )
 
-DECIMAL=$( printf "%x" 16)
-echo $DECIMAL
+

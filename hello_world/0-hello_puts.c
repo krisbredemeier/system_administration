@@ -1,7 +1,7 @@
 #include<stdio.h>
-
 int main ()
 {
-	puts("Hello, C");
+	puts("Hello, C\n");
 	return  0;
 }
+
